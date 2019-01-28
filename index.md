@@ -2,3 +2,16 @@ yep, its just another website.
 
 
 nothing to see here 🙄
+
+<h>
+  
+  Projects/stuff
+  
+  
+  <h>
+  
+<ul>
+  <li><a href="https://ss.nebulium.cf">ss.nebulium.cf</a> <a href="https://shaz.sexy"> Shaz's</a> <a href="https://getsharex.com" ShareX </a> CDN</li>
+	<li><a href="https://file.coffee"> File coffee</a></li>
+	<li>List item...</li>
+</ul>
