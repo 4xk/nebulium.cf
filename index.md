@@ -16,6 +16,6 @@ nothing to see here 🙄
 	<li><a href="https://smallr.xyz">smallr.xyz</a> --- A URL Shortener hosted by <a href="https://fakezane.net">FakeZane</a></li>
 <li><a href="https://discord.gg/gRUHc4H">Code Lounge</a> --- our discord server. </li>
 <li><a href="https://discordapp.com/users/505881403175731210">Nebulium#0516</a> --- My discord account </li>
-
+<li><a href="https://t.me/officialpepsi">OfficialPepsi</a> --- My telegram account </li>
 
 </ul>
